@@ -1,0 +1,645 @@
+{
+  "generatedAt": "2026-03-15T01:15:14.577Z",
+  "refreshIntervalMs": 60000,
+  "stale": false,
+  "feedReference": "资讯源已筛选为可稳定直达原文的市场、政策与加密来源。",
+  "tickerTitles": [
+    {
+      "id": "Financial Times-udzkbc",
+      "title": "美国石油集团有望从海湾战争中断中获得 630 亿美元的意外之财",
+      "url": "https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204"
+    },
+    {
+      "id": "Seeking Alpha-9xfal1",
+      "title": "伊朗战争使原油价格突破 100 美元，能源公司股价停滞不前",
+      "url": "https://seekingalpha.com/news/4564543-energy-company-shares-treading-water-while-iran-war-lifts-crude-oil-above-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "id": "CNBC-y96i9g",
+      "title": "伊朗威胁要对邻国进行报复；特朗普敦促各国协助确保霍尔木兹海峡安全",
+      "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html"
+    },
+    {
+      "id": "CoinDesk-u3r6k1",
+      "title": "随着中东战争影响该地区最大的赛事，加密货币对 F1 数百万美元的赞助受到批评",
+      "url": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events"
+    },
+    {
+      "id": "Financial Times-2u349o",
+      "title": "特朗普敦促中英派遣军舰重新开放霍尔木兹海峡",
+      "url": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68"
+    },
+    {
+      "id": "Federal Reserve-ikovwy",
+      "title": "美联储对 Equity Bank 前雇员和 Dongola First State Bank 前雇员采取执法行动",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm"
+    },
+    {
+      "id": "CNBC-6nann8",
+      "title": "宣布释放历史上最大规模的紧急石油库存。为何原油价格可能持续上涨",
+      "url": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html"
+    },
+    {
+      "id": "CNBC-xiy1np",
+      "title": "特朗普对伊朗损坏美国油轮的报道提出异议后，美国联邦通信委员会主席猛烈抨击广播公司",
+      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html"
+    },
+    {
+      "id": "Cointelegraph-gb7dyf",
+      "title": "分析师：改变巴塞尔规则可能会释放比特币的“巨大”流动性",
+      "url": "https://cointelegraph.com/news/changing-basel-rules-huge-liquidity-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "id": "Federal Reserve-jjn7l9",
+      "title": "美联储宣布批准 Home BancShares 的申请",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm"
+    },
+    {
+      "id": "Cointelegraph-67ei50",
+      "title": "这是今天加密货币领域发生的事情",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "id": "CNBC-8iyo6j",
+      "title": "费尔蒂塔周末就收购凯撒进行交易谈判，而亿万富翁卡尔·伊坎则在伺机而动",
+      "url": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html"
+    },
+    {
+      "id": "CoinDesk-2pdjh3",
+      "title": "鲍里斯·约翰逊称比特币为“庞氏骗局”，遭到迈克尔·塞勒等人的反驳",
+      "url": "https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others"
+    },
+    {
+      "id": "Cointelegraph-wuji8i",
+      "title": "英国前首相鲍里斯·约翰逊称比特币为“庞氏骗局”",
+      "url": "https://cointelegraph.com/news/boris-johnson-btc-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "id": "Cointelegraph-3asyr1",
+      "title": "Strategy 的 STRC 暗示 BTC 购买潜力为 7.76 亿美元，比特币跑赢股市",
+      "url": "https://cointelegraph.com/news/bitcoin-beats-stocks-strategy-strc-776m-btc-buying-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "id": "Seeking Alpha-sq3gqz",
+      "title": "日本、韩国誓言应对外汇波动",
+      "url": "https://seekingalpha.com/news/4564563-japan-south-korea-vow-fight-forex-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "id": "CoinDesk-ngnmdi",
+      "title": "以太坊基金会以 1,020 万美元的价格向 Tom Lee 的 BitMine 出售 5,000 个以太币",
+      "url": "https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal"
+    },
+    {
+      "id": "SEC-fudd3",
+      "title": "美国证券交易委员会 (SEC) 和美国商品期货交易委员会 (CFTC) 宣布机构间历史性谅解备忘录",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-26-sec-cftc-announce-historic-memorandum-understanding-between-agencies"
+    }
+  ],
+  "items": [
+    {
+      "id": "Seeking Alpha-9xfal1",
+      "title": "伊朗战争使原油价格突破 100 美元，能源公司股价停滞不前",
+      "summary": "Seeking Alpha投资最新更新：伊朗战争使原油价格突破 100 美元，能源公司股价停滞不前。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://seekingalpha.com/news/4564543-energy-company-shares-treading-water-while-iran-war-lifts-crude-oil-above-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "sourceLabel": "Seeking Alpha投资",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773534309000,
+      "publishedAtLabel": "2026-03-15T00:25:09.000Z",
+      "score": 97
+    },
+    {
+      "id": "Financial Times-2u349o",
+      "title": "特朗普敦促中英派遣军舰重新开放霍尔木兹海峡",
+      "summary": "总统在要求美国飞机轰炸伊朗哈尔格岛后请求帮助，加深了人们对长期石油危机的担忧",
+      "url": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
+      "source": "Financial Times",
+      "sourceLabel": "金融时报",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773532105000,
+      "publishedAtLabel": "2026-03-14T23:48:25.000Z",
+      "score": 96
+    },
+    {
+      "id": "CNBC-y96i9g",
+      "title": "伊朗威胁要对邻国进行报复；特朗普敦促各国协助确保霍尔木兹海峡安全",
+      "summary": "特朗普总统在《真相社会》帖子中表示，他指示美国中央司令部实施轰炸袭击，“摧毁”了哈格岛上的军事目标。",
+      "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
+      "source": "CNBC",
+      "sourceLabel": "CNBC财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773527928000,
+      "publishedAtLabel": "2026-03-14T22:38:48.000Z",
+      "score": 97
+    },
+    {
+      "id": "CNBC-xiy1np",
+      "title": "特朗普对伊朗损坏美国油轮的报道提出异议后，美国联邦通信委员会主席猛烈抨击广播公司",
+      "summary": "在唐纳德·特朗普总统称伊朗击落五架美国加油机的报道为“假新闻”后不久，美国联邦通信委员会主席布伦丹·卡尔对广播公司进行了猛烈抨击。",
+      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html",
+      "source": "CNBC",
+      "sourceLabel": "CNBC财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773527428000,
+      "publishedAtLabel": "2026-03-14T22:30:28.000Z",
+      "score": 87
+    },
+    {
+      "id": "Cointelegraph-67ei50",
+      "title": "这是今天加密货币领域发生的事情",
+      "summary": "需要知道今天加密货币领域发生了什么吗？以下是影响比特币价格、区块链、DeFi、NFT、Web3 和加密货币监管的每日趋势和事件的最新新闻。",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "sourceLabel": "Cointelegraph区块链报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773525842000,
+      "publishedAtLabel": "2026-03-14T22:04:02.000Z",
+      "score": 84
+    },
+    {
+      "id": "Cointelegraph-gb7dyf",
+      "title": "分析师：改变巴塞尔规则可能会释放比特币的“巨大”流动性",
+      "summary": "银行寻求以最有效的方式部署资本，但巴塞尔协议 III 框架下的资本规则使得持有加密货币的成本高昂。",
+      "url": "https://cointelegraph.com/news/changing-basel-rules-huge-liquidity-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "sourceLabel": "Cointelegraph区块链报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773524750000,
+      "publishedAtLabel": "2026-03-14T21:45:50.000Z",
+      "score": 87
+    },
+    {
+      "id": "Financial Times-udzkbc",
+      "title": "美国石油集团有望从海湾战争中断中获得 630 亿美元的意外之财",
+      "summary": "如果今年原油价格平均达到每桶 100 美元，美国生产商将成为最大受益者",
+      "url": "https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204",
+      "source": "Financial Times",
+      "sourceLabel": "金融时报",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773523864000,
+      "publishedAtLabel": "2026-03-14T21:31:04.000Z",
+      "score": 100
+    },
+    {
+      "id": "CNBC-8iyo6j",
+      "title": "费尔蒂塔周末就收购凯撒进行交易谈判，而亿万富翁卡尔·伊坎则在伺机而动",
+      "summary": "该交易如果完成，要到 4 月初才能最终确定，预计要到 2027 年才能完成。",
+      "url": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html",
+      "source": "CNBC",
+      "sourceLabel": "CNBC财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773523778000,
+      "publishedAtLabel": "2026-03-14T21:29:38.000Z",
+      "score": 84
+    },
+    {
+      "id": "Seeking Alpha-aak9hw",
+      "title": "本周主要交易：第一太平戴维斯 (Savills)、Cintas、Aureus Greenway、棒约翰 (Papa John's) 等",
+      "summary": "Seeking Alpha投资最新更新：本周主要交易：第一太平戴维斯 (Savills)、Cintas、Aureus Greenway、棒约翰 (Papa John's) 等。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://seekingalpha.com/news/4564564-key-deals-this-week-savills-cintas-aureus-greenway-papa-johns-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "sourceLabel": "Seeking Alpha投资",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773515720000,
+      "publishedAtLabel": "2026-03-14T19:15:20.000Z",
+      "score": 68
+    },
+    {
+      "id": "Seeking Alpha-sq3gqz",
+      "title": "日本、韩国誓言应对外汇波动",
+      "summary": "Seeking Alpha投资最新更新：日本、韩国誓言应对外汇波动。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://seekingalpha.com/news/4564563-japan-south-korea-vow-fight-forex-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "sourceLabel": "Seeking Alpha投资",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773513847000,
+      "publishedAtLabel": "2026-03-14T18:44:07.000Z",
+      "score": 77
+    },
+    {
+      "id": "Seeking Alpha-dm4b76",
+      "title": "量化评级最高和最低的材料股超过 10B：Coeur Mining 引领“强劲买入”",
+      "summary": "Seeking Alpha投资最新更新：量化评级最高和最低的材料股超过 10B：Coeur Mining 引领“强劲买入”。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://seekingalpha.com/news/4564265-top-and-bottom-quant-rated-materials-stocks-over-10b-coeur-mining-leads-strong-buys?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha",
+      "sourceLabel": "Seeking Alpha投资",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773513618000,
+      "publishedAtLabel": "2026-03-14T18:40:18.000Z",
+      "score": 64
+    },
+    {
+      "id": "CoinDesk-4cdilp",
+      "title": "霍斯金森对去中心化计算未来的看法可能是错误的",
+      "summary": "范说，卡尔达诺的创始人最近提出了一个关于需要解决的超大规模的争论。",
+      "url": "https://www.coindesk.com/opinion/2026/03/14/hoskinson-might-be-wrong-about-the-future-of-decentralized-compute",
+      "source": "CoinDesk",
+      "sourceLabel": "CoinDesk加密日报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773513000000,
+      "publishedAtLabel": "2026-03-14T18:30:00.000Z",
+      "score": 70
+    },
+    {
+      "id": "Cointelegraph-wuji8i",
+      "title": "英国前首相鲍里斯·约翰逊称比特币为“庞氏骗局”",
+      "summary": "约翰逊表示，他可以理解为什么黄金和神奇宝贝卡具有投资吸引力，但比特币却没有，他将比特币定性为骗局。",
+      "url": "https://cointelegraph.com/news/boris-johnson-btc-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "sourceLabel": "Cointelegraph区块链报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773511755000,
+      "publishedAtLabel": "2026-03-14T18:09:15.000Z",
+      "score": 82
+    },
+    {
+      "id": "CoinDesk-u3r6k1",
+      "title": "随着中东战争影响该地区最大的赛事，加密货币对 F1 数百万美元的赞助受到批评",
+      "summary": "阿联酋各地的其他重大商业活动，如中东能源迪拜和迪拜国际船舶展也被推迟或推迟。",
+      "url": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events",
+      "source": "CoinDesk",
+      "sourceLabel": "CoinDesk加密日报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773511200000,
+      "publishedAtLabel": "2026-03-14T18:00:00.000Z",
+      "score": 97
+    },
+    {
+      "id": "CoinDesk-ngnmdi",
+      "title": "以太坊基金会以 1,020 万美元的价格向 Tom Lee 的 BitMine 出售 5,000 个以太币",
+      "summary": "这些资金将支持 EF 的核心运营，包括协议研发和生态系统拨款，作为平衡 ETH 和法定资产的财务战略的一部分。",
+      "url": "https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal",
+      "source": "CoinDesk",
+      "sourceLabel": "CoinDesk加密日报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773510994000,
+      "publishedAtLabel": "2026-03-14T17:56:34.000Z",
+      "score": 76
+    },
+    {
+      "id": "Cointelegraph-3asyr1",
+      "title": "Strategy 的 STRC 暗示 BTC 购买潜力为 7.76 亿美元，比特币跑赢股市",
+      "summary": "由于熊旗形态的形成，BTC面临牛市陷阱风险，下行目标位于51,000美元左右。",
+      "url": "https://cointelegraph.com/news/bitcoin-beats-stocks-strategy-strc-776m-btc-buying-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "sourceLabel": "Cointelegraph区块链报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773509888000,
+      "publishedAtLabel": "2026-03-14T17:38:08.000Z",
+      "score": 82
+    },
+    {
+      "id": "CoinDesk-2pdjh3",
+      "title": "鲍里斯·约翰逊称比特币为“庞氏骗局”，遭到迈克尔·塞勒等人的反驳",
+      "summary": "加密货币社区对此表示反对，迈克尔·塞勒表示，比特币没有发行者、发起人或保证回报，而是由代码和市场需求驱动。",
+      "url": "https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others",
+      "source": "CoinDesk",
+      "sourceLabel": "CoinDesk加密日报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773508717000,
+      "publishedAtLabel": "2026-03-14T17:18:37.000Z",
+      "score": 83
+    },
+    {
+      "id": "CNBC-6nann8",
+      "title": "宣布释放历史上最大规模的紧急石油库存。为何原油价格可能持续上涨",
+      "summary": "自国际能源署宣布其50年历史上最大规模的原油库存释放以来，油价已飙升逾17%。",
+      "url": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
+      "source": "CNBC",
+      "sourceLabel": "CNBC财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773493631000,
+      "publishedAtLabel": "2026-03-14T13:07:11.000Z",
+      "score": 88
+    },
+    {
+      "id": "Yahoo Finance-pmie90",
+      "title": "应用光电 (AAOI) 2 亿美元的巨额交易引起了分析师的关注",
+      "summary": "雅虎财经最新更新：应用光电 (AAOI) 2 亿美元的巨额交易引起了分析师的关注。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://finance.yahoo.com/news/applied-optoelectronics-aaoi-mega-200-185037517.html",
+      "source": "Yahoo Finance",
+      "sourceLabel": "雅虎财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773427837000,
+      "publishedAtLabel": "2026-03-13T18:50:37.000Z",
+      "score": 67
+    },
+    {
+      "id": "Yahoo Finance-tquqam",
+      "title": "Sable Offshore (SOC) 因加州项目再次成为众人瞩目的焦点",
+      "summary": "雅虎财经最新更新：Sable Offshore (SOC) 因加州项目再次成为众人瞩目的焦点。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://finance.yahoo.com/news/sable-offshore-soc-limelight-again-185013792.html",
+      "source": "Yahoo Finance",
+      "sourceLabel": "雅虎财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "publishedAt": 1773427813000,
+      "publishedAtLabel": "2026-03-13T18:50:13.000Z",
+      "score": 67
+    },
+    {
+      "id": "Federal Reserve-ikovwy",
+      "title": "美联储对 Equity Bank 前雇员和 Dongola First State Bank 前雇员采取执法行动",
+      "summary": "美联储最新更新：美联储对 Equity Bank 前雇员和 Dongola First State Bank 前雇员采取执法行动。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm",
+      "source": "Federal Reserve",
+      "sourceLabel": "美联储",
+      "category": "policy",
+      "categoryLabel": "政策",
+      "official": true,
+      "publishedAt": 1773414000000,
+      "publishedAtLabel": "2026-03-13T15:00:00.000Z",
+      "score": 95
+    },
+    {
+      "id": "Federal Reserve-jjn7l9",
+      "title": "美联储宣布批准 Home BancShares 的申请",
+      "summary": "美联储最新更新：美联储宣布批准 Home BancShares 的申请。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm",
+      "source": "Federal Reserve",
+      "sourceLabel": "美联储",
+      "category": "policy",
+      "categoryLabel": "政策",
+      "official": true,
+      "publishedAt": 1773347400000,
+      "publishedAtLabel": "2026-03-12T20:30:00.000Z",
+      "score": 86
+    },
+    {
+      "id": "SEC-fudd3",
+      "title": "美国证券交易委员会 (SEC) 和美国商品期货交易委员会 (CFTC) 宣布机构间历史性谅解备忘录",
+      "summary": "两家机构已签订谅解备忘录，以指导协调与合作，以支持合法创新、维护市场诚信并确保投资者和客户保护。",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-26-sec-cftc-announce-historic-memorandum-understanding-between-agencies",
+      "source": "SEC",
+      "sourceLabel": "美国证监会",
+      "category": "policy",
+      "categoryLabel": "政策",
+      "official": true,
+      "publishedAt": 1773257400000,
+      "publishedAtLabel": "2026-03-11T19:30:00.000Z",
+      "score": 71
+    },
+    {
+      "id": "SEC-md2vxy",
+      "title": "SEC 投资者咨询委员会将于 3 月 12 日召开会议",
+      "summary": "美国证券交易委员会投资者咨询委员会将于美国东部时间 3 月 12 日上午 10 点在华盛顿特区 SEC 总部举行公开会议，讨论上市公司披露改革、基金代理...",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-25-sec-investor-advisory-committee-host-march-12-meeting",
+      "source": "SEC",
+      "sourceLabel": "美国证监会",
+      "category": "policy",
+      "categoryLabel": "政策",
+      "official": true,
+      "publishedAt": 1772724607000,
+      "publishedAtLabel": "2026-03-05T15:30:07.000Z",
+      "score": 60
+    }
+  ],
+  "leaderboard": [
+    {
+      "rank": 1,
+      "id": "Financial Times-udzkbc",
+      "title": "美国石油集团有望从海湾战争中断中获得 630 亿美元的意外之财",
+      "url": "https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204",
+      "score": 100,
+      "sourceLabel": "金融时报",
+      "categoryLabel": "市场",
+      "publishedAt": 1773523864000,
+      "publishedAtLabel": "2026-03-14T21:31:04.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "Seeking Alpha-9xfal1",
+      "title": "伊朗战争使原油价格突破 100 美元，能源公司股价停滞不前",
+      "url": "https://seekingalpha.com/news/4564543-energy-company-shares-treading-water-while-iran-war-lifts-crude-oil-above-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "score": 97,
+      "sourceLabel": "Seeking Alpha投资",
+      "categoryLabel": "市场",
+      "publishedAt": 1773534309000,
+      "publishedAtLabel": "2026-03-15T00:25:09.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "CNBC-y96i9g",
+      "title": "伊朗威胁要对邻国进行报复；特朗普敦促各国协助确保霍尔木兹海峡安全",
+      "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
+      "score": 97,
+      "sourceLabel": "CNBC财经",
+      "categoryLabel": "市场",
+      "publishedAt": 1773527928000,
+      "publishedAtLabel": "2026-03-14T22:38:48.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "CoinDesk-u3r6k1",
+      "title": "随着中东战争影响该地区最大的赛事，加密货币对 F1 数百万美元的赞助受到批评",
+      "url": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events",
+      "score": 97,
+      "sourceLabel": "CoinDesk加密日报",
+      "categoryLabel": "加密",
+      "publishedAt": 1773511200000,
+      "publishedAtLabel": "2026-03-14T18:00:00.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "Financial Times-2u349o",
+      "title": "特朗普敦促中英派遣军舰重新开放霍尔木兹海峡",
+      "url": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
+      "score": 96,
+      "sourceLabel": "金融时报",
+      "categoryLabel": "市场",
+      "publishedAt": 1773532105000,
+      "publishedAtLabel": "2026-03-14T23:48:25.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "Federal Reserve-ikovwy",
+      "title": "美联储对 Equity Bank 前雇员和 Dongola First State Bank 前雇员采取执法行动",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm",
+      "score": 95,
+      "sourceLabel": "美联储",
+      "categoryLabel": "政策",
+      "publishedAt": 1773414000000,
+      "publishedAtLabel": "2026-03-13T15:00:00.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "CNBC-6nann8",
+      "title": "宣布释放历史上最大规模的紧急石油库存。为何原油价格可能持续上涨",
+      "url": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
+      "score": 88,
+      "sourceLabel": "CNBC财经",
+      "categoryLabel": "市场",
+      "publishedAt": 1773493631000,
+      "publishedAtLabel": "2026-03-14T13:07:11.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "CNBC-xiy1np",
+      "title": "特朗普对伊朗损坏美国油轮的报道提出异议后，美国联邦通信委员会主席猛烈抨击广播公司",
+      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html",
+      "score": 87,
+      "sourceLabel": "CNBC财经",
+      "categoryLabel": "市场",
+      "publishedAt": 1773527428000,
+      "publishedAtLabel": "2026-03-14T22:30:28.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "Cointelegraph-gb7dyf",
+      "title": "分析师：改变巴塞尔规则可能会释放比特币的“巨大”流动性",
+      "url": "https://cointelegraph.com/news/changing-basel-rules-huge-liquidity-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "score": 87,
+      "sourceLabel": "Cointelegraph区块链报",
+      "categoryLabel": "加密",
+      "publishedAt": 1773524750000,
+      "publishedAtLabel": "2026-03-14T21:45:50.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "Federal Reserve-jjn7l9",
+      "title": "美联储宣布批准 Home BancShares 的申请",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm",
+      "score": 86,
+      "sourceLabel": "美联储",
+      "categoryLabel": "政策",
+      "publishedAt": 1773347400000,
+      "publishedAtLabel": "2026-03-12T20:30:00.000Z"
+    }
+  ],
+  "categories": {
+    "markets": {
+      "key": "markets",
+      "label": "市场",
+      "count": 12
+    },
+    "crypto": {
+      "key": "crypto",
+      "label": "加密",
+      "count": 8
+    },
+    "policy": {
+      "key": "policy",
+      "label": "政策",
+      "count": 4
+    }
+  },
+  "sourceSummary": {
+    "total": 8,
+    "live": 8,
+    "official": 2,
+    "itemCount": 24
+  },
+  "sources": [
+    {
+      "name": "CNBC",
+      "label": "CNBC财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "status": "live",
+      "itemCount": 4
+    },
+    {
+      "name": "Financial Times",
+      "label": "金融时报",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "status": "live",
+      "itemCount": 4
+    },
+    {
+      "name": "Seeking Alpha",
+      "label": "Seeking Alpha投资",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "status": "live",
+      "itemCount": 4
+    },
+    {
+      "name": "Yahoo Finance",
+      "label": "雅虎财经",
+      "category": "markets",
+      "categoryLabel": "市场",
+      "official": false,
+      "status": "live",
+      "itemCount": 4
+    },
+    {
+      "name": "Federal Reserve",
+      "label": "美联储",
+      "category": "policy",
+      "categoryLabel": "政策",
+      "official": true,
+      "status": "live",
+      "itemCount": 4
+    },
+    {
+      "name": "SEC",
+      "label": "美国证监会",
+      "category": "policy",
+      "categoryLabel": "政策",
+      "official": true,
+      "status": "live",
+      "itemCount": 4
+    },
+    {
+      "name": "CoinDesk",
+      "label": "CoinDesk加密日报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "status": "live",
+      "itemCount": 4
+    },
+    {
+      "name": "Cointelegraph",
+      "label": "Cointelegraph区块链报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "status": "live",
+      "itemCount": 4
+    }
+  ]
+}

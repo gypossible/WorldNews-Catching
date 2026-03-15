@@ -34,17 +34,7 @@ async function loadDigest() {
   render();
 
   try {
-    const response = await fetch(`/api/worldmonitor-finance-digest?ts=${Date.now()}`, {
-      headers: {
-        Accept: "application/json",
-      },
-    });
-
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
-
-    const payload = await response.json();
+    const payload = await fetchDigestPayload();
     if (requestId !== activeRequestId) {
       return;
     }
@@ -214,9 +204,7 @@ function render() {
             <p class="section-kicker">WORLD MONITOR FINANCE BOARD</p>
             <h1>世界监测财经简报</h1>
             <p class="hero-summary">
-              参考
-              <a href="https://www.worldmonitor.app/" target="_blank" rel="noreferrer">World Monitor</a>
-              公开财经源配置，聚合可直达原文的市场、政策与加密资讯。页面每 60 秒自动刷新一次，资讯标题、摘要与排行榜统一以中文展示。
+              聚合可直达原文的市场、政策与加密资讯。页面每 60 秒自动刷新一次，资讯标题、摘要与排行榜统一以中文展示，适合公开浏览和快速跟踪重要事件。
             </p>
             <p class="hero-credit">由刘光远设计开发</p>
           </div>
@@ -377,6 +365,40 @@ function renderMetric(label, value, note, role = "") {
       <p>${escapeHtml(note)}</p>
     </article>
   `;
+}
+
+async function fetchDigestPayload() {
+  const timestamp = Date.now();
+  const targets = [
+    new URL("./api/worldmonitor-finance-digest", window.location.href),
+    new URL("./worldmonitor-finance-digest.json", window.location.href),
+  ];
+
+  let lastError = null;
+
+  for (const target of targets) {
+    target.searchParams.set("ts", String(timestamp));
+
+    try {
+      const response = await fetch(target.toString(), {
+        headers: {
+          Accept: "application/json",
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      return await response.json();
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError instanceof Error
+    ? lastError
+    : new Error("暂无可用资讯数据。");
 }
 
 function renderFilterChip(key, label) {

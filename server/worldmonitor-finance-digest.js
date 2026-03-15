@@ -229,7 +229,7 @@ async function buildDigest() {
     refreshIntervalMs: REFRESH_INTERVAL_MS,
     stale: false,
     feedReference:
-      "资讯源参考 World Monitor 公开财经源配置，并筛选为可稳定直达原文的市场、政策与加密来源。",
+      "资讯源已筛选为可稳定直达原文的市场、政策与加密来源。",
     tickerTitles: rankedItems.slice(0, 18).map((item) => ({
       id: item.id,
       title: item.title,
