@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T01:15:14.577Z",
+  "generatedAt": "2026-03-15T03:21:17.605Z",
   "refreshIntervalMs": 60000,
   "stale": false,
   "feedReference": "资讯源已筛选为可稳定直达原文的市场、政策与加密来源。",
@@ -8,6 +8,11 @@
       "id": "Financial Times-udzkbc",
       "title": "美国石油集团有望从海湾战争中断中获得 630 亿美元的意外之财",
       "url": "https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204"
+    },
+    {
+      "id": "CoinDesk-u3r6k1",
+      "title": "随着中东战争影响该地区最大的赛事，加密货币对 F1 数百万美元的赞助受到批评",
+      "url": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events"
     },
     {
       "id": "Seeking Alpha-9xfal1",
@@ -20,9 +25,9 @@
       "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html"
     },
     {
-      "id": "CoinDesk-u3r6k1",
-      "title": "随着中东战争影响该地区最大的赛事，加密货币对 F1 数百万美元的赞助受到批评",
-      "url": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events"
+      "id": "Federal Reserve-ikovwy",
+      "title": "美联储对 Equity Bank 前雇员和 Dongola First State Bank 前雇员采取执法行动",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm"
     },
     {
       "id": "Financial Times-2u349o",
@@ -30,19 +35,14 @@
       "url": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68"
     },
     {
-      "id": "Federal Reserve-ikovwy",
-      "title": "美联储对 Equity Bank 前雇员和 Dongola First State Bank 前雇员采取执法行动",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm"
+      "id": "Cointelegraph-mejq5v",
+      "title": "执行官：如果 2026 年 4 月之前不通过 CLARITY 法案，可能性“极低”",
+      "url": "https://cointelegraph.com/news/clarity-act-crypto-united-states-congress-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "id": "CNBC-6nann8",
       "title": "宣布释放历史上最大规模的紧急石油库存。为何原油价格可能持续上涨",
       "url": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html"
-    },
-    {
-      "id": "CNBC-xiy1np",
-      "title": "特朗普对伊朗损坏美国油轮的报道提出异议后，美国联邦通信委员会主席猛烈抨击广播公司",
-      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html"
     },
     {
       "id": "Cointelegraph-gb7dyf",
@@ -53,6 +53,11 @@
       "id": "Federal Reserve-jjn7l9",
       "title": "美联储宣布批准 Home BancShares 的申请",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm"
+    },
+    {
+      "id": "CNBC-xiy1np",
+      "title": "特朗普对伊朗损坏美国油轮的报道提出异议后，美国联邦通信委员会主席猛烈抨击广播公司",
+      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html"
     },
     {
       "id": "Cointelegraph-67ei50",
@@ -75,11 +80,6 @@
       "url": "https://cointelegraph.com/news/boris-johnson-btc-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "id": "Cointelegraph-3asyr1",
-      "title": "Strategy 的 STRC 暗示 BTC 购买潜力为 7.76 亿美元，比特币跑赢股市",
-      "url": "https://cointelegraph.com/news/bitcoin-beats-stocks-strategy-strc-776m-btc-buying-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
       "id": "Seeking Alpha-sq3gqz",
       "title": "日本、韩国誓言应对外汇波动",
       "url": "https://seekingalpha.com/news/4564563-japan-south-korea-vow-fight-forex-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
@@ -90,12 +90,26 @@
       "url": "https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal"
     },
     {
-      "id": "SEC-fudd3",
-      "title": "美国证券交易委员会 (SEC) 和美国商品期货交易委员会 (CFTC) 宣布机构间历史性谅解备忘录",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-26-sec-cftc-announce-historic-memorandum-understanding-between-agencies"
+      "id": "Yahoo Finance-qjdlte",
+      "title": "Ulta 股票因盈利抛售而严重超卖。你应该逢低买入吗？",
+      "url": "https://finance.yahoo.com/news/ulta-stock-deeply-oversold-earnings-201532356.html"
     }
   ],
   "items": [
+    {
+      "id": "Cointelegraph-mejq5v",
+      "title": "执行官：如果 2026 年 4 月之前不通过 CLARITY 法案，可能性“极低”",
+      "summary": "尽管业内许多人认为稳定币奖励是美国《澄清法案》的唯一症结所在，但一位加密货币高管表示，可能会出现更多障碍。",
+      "url": "https://cointelegraph.com/news/clarity-act-crypto-united-states-congress-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "sourceLabel": "Cointelegraph区块链报",
+      "category": "crypto",
+      "categoryLabel": "加密",
+      "official": false,
+      "publishedAt": 1773540577000,
+      "publishedAtLabel": "2026-03-15T02:09:37.000Z",
+      "score": 90
+    },
     {
       "id": "Seeking Alpha-9xfal1",
       "title": "伊朗战争使原油价格突破 100 美元，能源公司股价停滞不前",
@@ -108,7 +122,7 @@
       "official": false,
       "publishedAt": 1773534309000,
       "publishedAtLabel": "2026-03-15T00:25:09.000Z",
-      "score": 97
+      "score": 95
     },
     {
       "id": "Financial Times-2u349o",
@@ -122,7 +136,7 @@
       "official": false,
       "publishedAt": 1773532105000,
       "publishedAtLabel": "2026-03-14T23:48:25.000Z",
-      "score": 96
+      "score": 94
     },
     {
       "id": "CNBC-y96i9g",
@@ -136,7 +150,7 @@
       "official": false,
       "publishedAt": 1773527928000,
       "publishedAtLabel": "2026-03-14T22:38:48.000Z",
-      "score": 97
+      "score": 95
     },
     {
       "id": "CNBC-xiy1np",
@@ -150,7 +164,7 @@
       "official": false,
       "publishedAt": 1773527428000,
       "publishedAtLabel": "2026-03-14T22:30:28.000Z",
-      "score": 87
+      "score": 84
     },
     {
       "id": "Cointelegraph-67ei50",
@@ -220,7 +234,7 @@
       "official": false,
       "publishedAt": 1773515720000,
       "publishedAtLabel": "2026-03-14T19:15:20.000Z",
-      "score": 68
+      "score": 64
     },
     {
       "id": "Seeking Alpha-sq3gqz",
@@ -307,20 +321,6 @@
       "score": 76
     },
     {
-      "id": "Cointelegraph-3asyr1",
-      "title": "Strategy 的 STRC 暗示 BTC 购买潜力为 7.76 亿美元，比特币跑赢股市",
-      "summary": "由于熊旗形态的形成，BTC面临牛市陷阱风险，下行目标位于51,000美元左右。",
-      "url": "https://cointelegraph.com/news/bitcoin-beats-stocks-strategy-strc-776m-btc-buying-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "sourceLabel": "Cointelegraph区块链报",
-      "category": "crypto",
-      "categoryLabel": "加密",
-      "official": false,
-      "publishedAt": 1773509888000,
-      "publishedAtLabel": "2026-03-14T17:38:08.000Z",
-      "score": 82
-    },
-    {
       "id": "CoinDesk-2pdjh3",
       "title": "鲍里斯·约翰逊称比特币为“庞氏骗局”，遭到迈克尔·塞勒等人的反驳",
       "summary": "加密货币社区对此表示反对，迈克尔·塞勒表示，比特币没有发行者、发起人或保证回报，而是由代码和市场需求驱动。",
@@ -349,32 +349,32 @@
       "score": 88
     },
     {
-      "id": "Yahoo Finance-pmie90",
-      "title": "应用光电 (AAOI) 2 亿美元的巨额交易引起了分析师的关注",
-      "summary": "雅虎财经最新更新：应用光电 (AAOI) 2 亿美元的巨额交易引起了分析师的关注。打开原文查看完整背景、数据口径与潜在市场影响。",
-      "url": "https://finance.yahoo.com/news/applied-optoelectronics-aaoi-mega-200-185037517.html",
+      "id": "Yahoo Finance-a9zdfs",
+      "title": "比特币刷新月高位，该矿商的图表优于同行",
+      "summary": "雅虎财经最新更新：比特币刷新月高位，该矿商的图表优于同行。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://www.investors.com/news/bitcoin-price-march-73k-high-etf-flows-terawulf-wulf-stock-bitcoin-miners-crypto-stocks/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "sourceLabel": "雅虎财经",
       "category": "markets",
       "categoryLabel": "市场",
       "official": false,
-      "publishedAt": 1773427837000,
-      "publishedAtLabel": "2026-03-13T18:50:37.000Z",
-      "score": 67
+      "publishedAt": 1773432993000,
+      "publishedAtLabel": "2026-03-13T20:16:33.000Z",
+      "score": 73
     },
     {
-      "id": "Yahoo Finance-tquqam",
-      "title": "Sable Offshore (SOC) 因加州项目再次成为众人瞩目的焦点",
-      "summary": "雅虎财经最新更新：Sable Offshore (SOC) 因加州项目再次成为众人瞩目的焦点。打开原文查看完整背景、数据口径与潜在市场影响。",
-      "url": "https://finance.yahoo.com/news/sable-offshore-soc-limelight-again-185013792.html",
+      "id": "Yahoo Finance-qjdlte",
+      "title": "Ulta 股票因盈利抛售而严重超卖。你应该逢低买入吗？",
+      "summary": "雅虎财经最新更新：Ulta 股票因盈利抛售而严重超卖。你应该逢低买入吗？。打开原文查看完整背景、数据口径与潜在市场影响。",
+      "url": "https://finance.yahoo.com/news/ulta-stock-deeply-oversold-earnings-201532356.html",
       "source": "Yahoo Finance",
       "sourceLabel": "雅虎财经",
       "category": "markets",
       "categoryLabel": "市场",
       "official": false,
-      "publishedAt": 1773427813000,
-      "publishedAtLabel": "2026-03-13T18:50:13.000Z",
-      "score": 67
+      "publishedAt": 1773432932000,
+      "publishedAtLabel": "2026-03-13T20:15:32.000Z",
+      "score": 76
     },
     {
       "id": "Federal Reserve-ikovwy",
@@ -447,28 +447,6 @@
     },
     {
       "rank": 2,
-      "id": "Seeking Alpha-9xfal1",
-      "title": "伊朗战争使原油价格突破 100 美元，能源公司股价停滞不前",
-      "url": "https://seekingalpha.com/news/4564543-energy-company-shares-treading-water-while-iran-war-lifts-crude-oil-above-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "score": 97,
-      "sourceLabel": "Seeking Alpha投资",
-      "categoryLabel": "市场",
-      "publishedAt": 1773534309000,
-      "publishedAtLabel": "2026-03-15T00:25:09.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "CNBC-y96i9g",
-      "title": "伊朗威胁要对邻国进行报复；特朗普敦促各国协助确保霍尔木兹海峡安全",
-      "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
-      "score": 97,
-      "sourceLabel": "CNBC财经",
-      "categoryLabel": "市场",
-      "publishedAt": 1773527928000,
-      "publishedAtLabel": "2026-03-14T22:38:48.000Z"
-    },
-    {
-      "rank": 4,
       "id": "CoinDesk-u3r6k1",
       "title": "随着中东战争影响该地区最大的赛事，加密货币对 F1 数百万美元的赞助受到批评",
       "url": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events",
@@ -479,18 +457,29 @@
       "publishedAtLabel": "2026-03-14T18:00:00.000Z"
     },
     {
-      "rank": 5,
-      "id": "Financial Times-2u349o",
-      "title": "特朗普敦促中英派遣军舰重新开放霍尔木兹海峡",
-      "url": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
-      "score": 96,
-      "sourceLabel": "金融时报",
+      "rank": 3,
+      "id": "Seeking Alpha-9xfal1",
+      "title": "伊朗战争使原油价格突破 100 美元，能源公司股价停滞不前",
+      "url": "https://seekingalpha.com/news/4564543-energy-company-shares-treading-water-while-iran-war-lifts-crude-oil-above-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "score": 95,
+      "sourceLabel": "Seeking Alpha投资",
       "categoryLabel": "市场",
-      "publishedAt": 1773532105000,
-      "publishedAtLabel": "2026-03-14T23:48:25.000Z"
+      "publishedAt": 1773534309000,
+      "publishedAtLabel": "2026-03-15T00:25:09.000Z"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "id": "CNBC-y96i9g",
+      "title": "伊朗威胁要对邻国进行报复；特朗普敦促各国协助确保霍尔木兹海峡安全",
+      "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
+      "score": 95,
+      "sourceLabel": "CNBC财经",
+      "categoryLabel": "市场",
+      "publishedAt": 1773527928000,
+      "publishedAtLabel": "2026-03-14T22:38:48.000Z"
+    },
+    {
+      "rank": 5,
       "id": "Federal Reserve-ikovwy",
       "title": "美联储对 Equity Bank 前雇员和 Dongola First State Bank 前雇员采取执法行动",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm",
@@ -501,7 +490,29 @@
       "publishedAtLabel": "2026-03-13T15:00:00.000Z"
     },
     {
+      "rank": 6,
+      "id": "Financial Times-2u349o",
+      "title": "特朗普敦促中英派遣军舰重新开放霍尔木兹海峡",
+      "url": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
+      "score": 94,
+      "sourceLabel": "金融时报",
+      "categoryLabel": "市场",
+      "publishedAt": 1773532105000,
+      "publishedAtLabel": "2026-03-14T23:48:25.000Z"
+    },
+    {
       "rank": 7,
+      "id": "Cointelegraph-mejq5v",
+      "title": "执行官：如果 2026 年 4 月之前不通过 CLARITY 法案，可能性“极低”",
+      "url": "https://cointelegraph.com/news/clarity-act-crypto-united-states-congress-galaxy-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "score": 90,
+      "sourceLabel": "Cointelegraph区块链报",
+      "categoryLabel": "加密",
+      "publishedAt": 1773540577000,
+      "publishedAtLabel": "2026-03-15T02:09:37.000Z"
+    },
+    {
+      "rank": 8,
       "id": "CNBC-6nann8",
       "title": "宣布释放历史上最大规模的紧急石油库存。为何原油价格可能持续上涨",
       "url": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
@@ -510,17 +521,6 @@
       "categoryLabel": "市场",
       "publishedAt": 1773493631000,
       "publishedAtLabel": "2026-03-14T13:07:11.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "CNBC-xiy1np",
-      "title": "特朗普对伊朗损坏美国油轮的报道提出异议后，美国联邦通信委员会主席猛烈抨击广播公司",
-      "url": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html",
-      "score": 87,
-      "sourceLabel": "CNBC财经",
-      "categoryLabel": "市场",
-      "publishedAt": 1773527428000,
-      "publishedAtLabel": "2026-03-14T22:30:28.000Z"
     },
     {
       "rank": 9,
@@ -546,15 +546,15 @@
     }
   ],
   "categories": {
-    "markets": {
-      "key": "markets",
-      "label": "市场",
-      "count": 12
-    },
     "crypto": {
       "key": "crypto",
       "label": "加密",
       "count": 8
+    },
+    "markets": {
+      "key": "markets",
+      "label": "市场",
+      "count": 12
     },
     "policy": {
       "key": "policy",
