@@ -1,0 +1,16 @@
+{
+  "name": "worldnews-catching",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite preview --host 127.0.0.1 --port 4173",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  },
+  "description": "World Monitor finance dashboard with Chinese summaries and live rankings"
+}
